@@ -1,3 +1,5 @@
+<link rel="stylesheet" type="text/css" href="/main.css">
+
 <div class="title">
     <h3>KILLEEN, TX - 2020</h3>
     <h1>BURROW</h1>
